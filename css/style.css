@@ -61,13 +61,13 @@ a {
 .pattern-top {
   top: 0;
   left: 0;
-  background: url('/images/bg-pattern-top.svg') right bottom no-repeat;
+  background: url('../images/bg-pattern-top.svg') right bottom no-repeat;
 }
 
 .pattern-bottom {
   bottom: 0;
   right: 0;
-  background: url('/images/bg-pattern-bottom.svg') left top no-repeat;
+  background: url('../images/bg-pattern-bottom.svg') left top no-repeat;
 }
 
 .card-top img {
